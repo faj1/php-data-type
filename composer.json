@@ -1,6 +1,7 @@
 {
-  "name": "comely-io/data-types-php",
+  "name": "faj1/php-data-type",
   "description": "PHP data types 20",
+  "version": "1.0.0",
   "type": "library",
   "homepage": "https://github.com/comely-io/data-types",
   "license": "MIT",
